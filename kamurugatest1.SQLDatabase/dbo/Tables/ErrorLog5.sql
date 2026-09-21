@@ -5,7 +5,7 @@ CREATE TABLE [dbo].[ErrorLog5] (
     [ErrorMessage3]   NVARCHAR (4000) NOT NULL,
     [ErrorMessage4]   NVARCHAR (4000) NOT NULL,
      [ErrorMessage5]   NVARCHAR (4000) NOT NULL,
-    [ErrorMessage5]   NVARCHAR (4000) NOT NULL
+    [ErrorMessage6]   NVARCHAR (4000) NOT NULL
 );
 
 
