@@ -1,0 +1,6 @@
+CREATE USER [AdminUser01@ppeEdogTenant.ccsctp.net]
+    WITH SID = 0xA6A8236F54D95045B91A4DF73CCD0311, TYPE = E;
+
+
+GO
+
