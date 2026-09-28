@@ -1,4 +1,4 @@
-CREATE TABLE [dbo].[TableName2] (
+CREATE TABLE [dbo].[TableName3] (
     [Id]          INT           NOT NULL,
     [ColumnName2] NVARCHAR (50) NOT NULL,
     [ColumnName3] NVARCHAR (50) NOT NULL,
