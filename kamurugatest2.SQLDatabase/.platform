@@ -1,0 +1,11 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/gitIntegration/platformProperties/2.0.0/schema.json",
+  "metadata": {
+    "type": "SQLDatabase",
+    "displayName": "kamurugatest2"
+  },
+  "config": {
+    "version": "2.0",
+    "logicalId": "5b02bf20-42f6-b422-4e8a-fb402ea57153"
+  }
+}
