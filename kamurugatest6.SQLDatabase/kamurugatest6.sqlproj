@@ -16,7 +16,7 @@
     <IsChangeTrackingOn>False</IsChangeTrackingOn>
     <IsQueryStoreOn>True</IsQueryStoreOn>
     <ModelCollation>1033, CI</ModelCollation>
-    <Name>kamurugatest3</Name>
+    <Name>kamurugatest6</Name>
     <PageVerify>CHECKSUM</PageVerify>
     <ProjectGuid>{00000000-0000-0000-0000-000000000000}</ProjectGuid>
     <QueryStoreCaptureMode>AUTO</QueryStoreCaptureMode>
@@ -35,6 +35,9 @@
       <DatabaseVariableLiteralValue>master</DatabaseVariableLiteralValue>
       <Version>170.0.0</Version>
     </PackageReference>
+  </ItemGroup>
+  <ItemGroup>
+    <Build Remove=".sharedqueries\**" />
   </ItemGroup>
   <Target Name="BeforeBuild">
     <Delete Files="$(BaseIntermediateOutputPath)\project.assets.json" />
