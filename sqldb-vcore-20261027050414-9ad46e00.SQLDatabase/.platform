@@ -1,0 +1,12 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/fabric/gitIntegration/platformProperties/2.0.0/schema.json",
+  "metadata": {
+    "type": "SQLDatabase",
+    "displayName": "sqldb-vcore-20261027050414-9ad46e00",
+    "description": "DevBoxless vCore validation 9ad46e00-2d5a-48bf-9d23-c1e1eb7357aa"
+  },
+  "config": {
+    "version": "2.0",
+    "logicalId": "e2c4e088-11ef-a867-4c22-c926ce9e003e"
+  }
+}
